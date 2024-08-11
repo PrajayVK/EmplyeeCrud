@@ -12,7 +12,7 @@ import java.util.Optional;
 import static org.mockito.Mockito.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-@ExtendWith(MockitoExtension.class)  // Use Mockito's JUnit 5 extension
+@ExtendWith(MockitoExtension.class)
 class EmployeeServiceTest {
 
     @Mock
