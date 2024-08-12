@@ -17,6 +17,8 @@ After Deleting Employee 1
 ![image](https://github.com/user-attachments/assets/3488d43b-2597-48b4-9132-b2252ea37f86)
 
 
+Implementing JPA Repository (Pending)
+![image](https://github.com/user-attachments/assets/4895d68e-c974-4694-83e6-5a48192f3bac)
 
 
 
